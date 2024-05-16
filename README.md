@@ -1,4 +1,4 @@
-# get_next_line Project
+# Project
 
 The get_next_line project is a critical component of the 42 school curriculum, designed to enhance students' understanding of file I/O operations and dynamic memory allocation in C programming. In this project, students are tasked with implementing a function that reads a line from a file descriptor and returns it without the newline character.
 
